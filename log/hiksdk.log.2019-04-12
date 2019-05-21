@@ -1,0 +1,137 @@
+0    INFO  2019-04-12 10:56:21876 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk init success.
+1    INFO  2019-04-12 10:56:21877 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk search devices.
+8955 INFO  2019-04-12 10:56:30831 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+10395 INFO  2019-04-12 10:56:32271 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+11331 INFO  2019-04-12 10:56:33207 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+0    INFO  2019-04-12 10:58:38594 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk init success.
+1    INFO  2019-04-12 10:58:38595 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk search devices.
+3412 INFO  2019-04-12 10:58:426 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+4117 INFO  2019-04-12 10:58:42711 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+4652 INFO  2019-04-12 10:58:43246 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+5052 INFO  2019-04-12 10:58:43646 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+5365 INFO  2019-04-12 10:58:43959 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+5900 INFO  2019-04-12 10:58:44494 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+6164 INFO  2019-04-12 10:58:44758 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+6324 INFO  2019-04-12 10:58:44918 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+6476 INFO  2019-04-12 10:58:4570 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+6636 INFO  2019-04-12 10:58:45230 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+6772 INFO  2019-04-12 10:58:45366 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+6948 INFO  2019-04-12 10:58:45542 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+7093 INFO  2019-04-12 10:58:45687 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+7268 INFO  2019-04-12 10:58:45862 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+7444 INFO  2019-04-12 10:58:4638 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+7637 INFO  2019-04-12 10:58:46231 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+7820 INFO  2019-04-12 10:58:46414 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+8005 INFO  2019-04-12 10:58:46599 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+8180 INFO  2019-04-12 10:58:46774 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+8348 INFO  2019-04-12 10:58:46942 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+8533 INFO  2019-04-12 10:58:47127 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+8700 INFO  2019-04-12 10:58:47294 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+8860 INFO  2019-04-12 10:58:47454 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+9044 INFO  2019-04-12 10:58:47638 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+9204 INFO  2019-04-12 10:58:47798 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+9365 INFO  2019-04-12 10:58:47959 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+9548 INFO  2019-04-12 10:58:48142 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+11588 INFO  2019-04-12 10:58:50182 com.wink.sdk.hk.func.HkSadpSdkFunc stop search devices.
+13269 INFO  2019-04-12 10:58:51863 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk search devices.
+15637 INFO  2019-04-12 10:58:54231 com.wink.sdk.hk.func.HkSadpSdkFunc stop search devices.
+0    INFO  2019-04-12 11:01:30652 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk init success.
+1    INFO  2019-04-12 11:01:30653 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk search devices.
+5331 INFO  2019-04-12 11:01:35983 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+6139 INFO  2019-04-12 11:01:36791 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+6867 INFO  2019-04-12 11:01:37519 com.wink.sdk.hk.func.HkSadpSdkFunc refresh devices.
+33623 INFO  2019-04-12 11:02:04275 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+33623 INFO  2019-04-12 11:02:04275 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+33996 INFO  2019-04-12 11:02:04648 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+34088 INFO  2019-04-12 11:02:04740 com.wink.sdk.hk.func.HkNetSdkFunc try to set gbt28181 as {"szSipAuthenticateID":"34020000001320000001","wServerSipPort":"5060","wLocalSipPort":"5060","byStreamType":"0","byEnable":"1","dwRegisterInterval":"60","szDeviceDomain":"abc","dwRegisterValid":"3600","byTransProtocol":"0","byProtocolVersion":"2","szServerID":"34020000002000000001","szSipAuthenticatePasswd":"12345678","dwAutoAllocChannelID":"0","szServerDomain":"3402000000","byHeartbeatInterval":"60","byDeviceStatus":"1","szSipServerAddress":"10.1.1.1","szSipUserName":"34020000001320000001","byMaxHeartbeatTimeOut":"3"}
+34089 INFO  2019-04-12 11:02:04741 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+34309 INFO  2019-04-12 11:02:04961 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+36358 ERROR 2019-04-12 11:02:0710 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+36358 ERROR 2019-04-12 11:02:0710 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 14:42:573 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+1    INFO  2019-04-12 14:42:574 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+267  INFO  2019-04-12 14:42:57270 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+0    INFO  2019-04-12 14:43:37499 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+1    INFO  2019-04-12 14:43:37500 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+303  INFO  2019-04-12 14:43:37802 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+376  INFO  2019-04-12 14:43:37875 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2384 ERROR 2019-04-12 14:43:39883 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2385 ERROR 2019-04-12 14:43:39884 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 14:47:14739 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+1    INFO  2019-04-12 14:47:14740 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+252  INFO  2019-04-12 14:47:14991 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+323  INFO  2019-04-12 14:47:1562 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2331 ERROR 2019-04-12 14:47:1770 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2332 ERROR 2019-04-12 14:47:1771 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 14:49:42976 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+0    INFO  2019-04-12 14:49:42976 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+255  INFO  2019-04-12 14:49:43231 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+349  INFO  2019-04-12 14:49:43325 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2357 ERROR 2019-04-12 14:49:45333 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2357 ERROR 2019-04-12 14:49:45333 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 14:59:08168 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+1    INFO  2019-04-12 14:59:08169 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+324  INFO  2019-04-12 14:59:08492 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+401  INFO  2019-04-12 14:59:08569 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2408 ERROR 2019-04-12 14:59:10576 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2409 ERROR 2019-04-12 14:59:10577 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 15:00:57948 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+0    INFO  2019-04-12 15:00:57948 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+261  INFO  2019-04-12 15:00:58209 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+353  INFO  2019-04-12 15:00:58301 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2360 ERROR 2019-04-12 15:01:00308 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2361 ERROR 2019-04-12 15:01:00309 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 15:06:3389 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+1    INFO  2019-04-12 15:06:3390 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+280  INFO  2019-04-12 15:06:33369 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+359  INFO  2019-04-12 15:06:33448 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2366 ERROR 2019-04-12 15:06:35455 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2367 ERROR 2019-04-12 15:06:35456 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 15:11:15607 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+0    INFO  2019-04-12 15:11:15607 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+295  INFO  2019-04-12 15:11:15902 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+350  INFO  2019-04-12 15:11:15957 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2358 ERROR 2019-04-12 15:11:17965 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2359 ERROR 2019-04-12 15:11:17966 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 15:14:32947 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+0    INFO  2019-04-12 15:14:32947 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+264  INFO  2019-04-12 15:14:33211 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+333  INFO  2019-04-12 15:14:33280 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2340 ERROR 2019-04-12 15:14:35287 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2341 ERROR 2019-04-12 15:14:35288 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 15:16:21853 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+1    INFO  2019-04-12 15:16:21854 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+290  INFO  2019-04-12 15:16:22143 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+352  INFO  2019-04-12 15:16:22205 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2359 ERROR 2019-04-12 15:16:24212 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2360 ERROR 2019-04-12 15:16:24213 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 15:19:20920 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+1    INFO  2019-04-12 15:19:20921 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+271  INFO  2019-04-12 15:19:21191 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+349  INFO  2019-04-12 15:19:21269 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2357 ERROR 2019-04-12 15:19:23277 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2358 ERROR 2019-04-12 15:19:23278 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 15:24:46628 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+1    INFO  2019-04-12 15:24:46629 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+286  INFO  2019-04-12 15:24:46914 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+341  INFO  2019-04-12 15:24:46969 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2349 ERROR 2019-04-12 15:24:48977 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2350 ERROR 2019-04-12 15:24:48978 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 15:26:12386 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+0    INFO  2019-04-12 15:26:12386 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+336  INFO  2019-04-12 15:26:12722 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+394  INFO  2019-04-12 15:26:12780 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2398 ERROR 2019-04-12 15:26:14784 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2399 ERROR 2019-04-12 15:26:14785 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 15:58:45252 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+0    INFO  2019-04-12 15:58:45252 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+260  INFO  2019-04-12 15:58:45512 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+321  INFO  2019-04-12 15:58:45573 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2328 ERROR 2019-04-12 15:58:47580 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2329 ERROR 2019-04-12 15:58:47581 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-12 16:09:02608 com.wink.sdk.hk.func.HkNetSdkFunc init.success
+1    INFO  2019-04-12 16:09:02609 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.30.123
+285  INFO  2019-04-12 16:09:02893 com.wink.sdk.hk.func.HkNetSdkFunc try to fetch gbt28181.
+358  INFO  2019-04-12 16:09:02966 com.wink.sdk.hk.func.HkNetSdkFunc try to login ip: 192.168.1.80
+2365 ERROR 2019-04-12 16:09:04973 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2366 ERROR 2019-04-12 16:09:04974 com.wink.sdk.hk.util.SdkErrorUtil 7--连接设备失败。设备不在线或网络原因引起的连接超时等。 

@@ -1,0 +1,3 @@
+0    INFO  2019-04-24 20:02:36449 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+2    INFO  2019-04-24 20:02:36451 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.123
+2159 ERROR 2019-04-24 20:02:38608 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 

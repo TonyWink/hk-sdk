@@ -1,0 +1,6 @@
+0    INFO  2019-04-29 20:01:0681 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+10   INFO  2019-04-29 20:01:0691 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+44   INFO  2019-04-29 20:01:06125 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-29 20:02:32463 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+4    INFO  2019-04-29 20:02:32467 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+34   INFO  2019-04-29 20:02:32497 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.

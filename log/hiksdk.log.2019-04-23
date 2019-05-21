@@ -1,0 +1,40 @@
+0    INFO  2019-04-23 15:16:33969 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+1    INFO  2019-04-23 15:16:33970 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.123
+2101 ERROR 2019-04-23 15:16:3670 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-23 15:16:54113 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+1    INFO  2019-04-23 15:16:54114 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.123
+2076 ERROR 2019-04-23 15:16:56189 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2090 INFO  2019-04-23 15:16:56203 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk init success.
+2090 INFO  2019-04-23 15:16:56203 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk search devices.
+2091 INFO  2019-04-23 15:16:56204 com.wink.sdk.hk.func.HkSadpSdkFunc HkSadpSdk search devices.
+0    INFO  2019-04-23 15:55:04576 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+1    INFO  2019-04-23 15:55:04577 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.116
+2089 ERROR 2019-04-23 15:55:06665 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 
+0    INFO  2019-04-23 16:00:12936 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+1    INFO  2019-04-23 16:00:12937 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.116
+2096 ERROR 2019-04-23 16:00:1532 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2096 INFO  2019-04-23 16:00:1532 com.wink.sdk.hk.func.HCNetSdkFunc try to set device time as system time.
+2136 INFO  2019-04-23 16:00:1572 com.wink.sdk.hk.func.HCNetSdkFunc set device time as{
+    "dwDay": 23,
+    "dwHour": 16,
+    "dwYear": 2019,
+    "dwMonth": 4,
+    "dwMinute": 0,
+    "dwSecond": 15
+}
+2395 ERROR 2019-04-23 16:00:15331 com.wink.sdk.hk.func.HCNetSdkFunc 参数错误。SDK接口中给入的输入或输出参数为空，或者参数格式或值不符合要求。 
+0    INFO  2019-04-23 16:03:41924 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+0    INFO  2019-04-23 16:03:41924 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.116
+2085 ERROR 2019-04-23 16:03:449 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2085 INFO  2019-04-23 16:03:449 com.wink.sdk.hk.func.HCNetSdkFunc try to set device time as system time.
+2115 INFO  2019-04-23 16:03:4439 com.wink.sdk.hk.func.HCNetSdkFunc set device time as{
+    "dwDay": 23,
+    "dwHour": 16,
+    "dwYear": 2019,
+    "dwMonth": 4,
+    "dwMinute": 3,
+    "dwSecond": 44
+}
+1    INFO  2019-04-23 16:58:52713 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+1    INFO  2019-04-23 16:58:52713 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.116
+2101 ERROR 2019-04-23 16:58:54813 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 

@@ -1,0 +1,8 @@
+[2019-05-21 16:23:56.450][INF] The COM:Core ver is 5.3.6.30, 2018_08_16. Async:1.
+[2019-05-21 16:23:56.450][DBG] CCoreGlobalCtrl::GetHCNetUtilsAPI, new HCNetUtilsAPI SUCC
+[2019-05-21 16:23:56.450][DBG] CCoreGlobalCtrl::GetHCNetUtilsAPI, Init, SUCC, m_pHCNetUtilsAPI[4809856]
+[2019-05-21 16:23:56.450][DBG] CCoreGlobalCtrl::GetHCNetUtilsAPI, m_pHCNetUtilsAPI[4809856]
+[2019-05-21 16:23:56.450][INF] This hcnetsdk ver is 5.3.6.30 Ver 2018_08_16.
+[2019-05-21 16:23:56.461][INF] login dev 192.168.30.123:8000.
+[2019-05-21 16:23:58.462][ERR] Private connect 192.168.30.123:8000 sock=920 this=0x1f4dd404 cmd=0x10000 sys_err=10060, timeout= 2000
+[2019-05-21 16:23:58.462][ERR] [192.168.30.123:8000]LogonDevice Link_CreateLink fail[7].

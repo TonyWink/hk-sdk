@@ -1,0 +1,27 @@
+0    INFO  2019-05-21 13:38:27885 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+5    INFO  2019-05-21 13:38:27890 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+35   INFO  2019-05-21 13:38:27920 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-05-21 16:17:06769 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+4    INFO  2019-05-21 16:17:06773 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+26   INFO  2019-05-21 16:17:06795 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-05-21 16:20:42629 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+1    INFO  2019-05-21 16:20:42630 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.123
+2059 ERROR 2019-05-21 16:20:44688 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2062 INFO  2019-05-21 16:20:44691 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+2062 INFO  2019-05-21 16:20:44691 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+2073 INFO  2019-05-21 16:20:44702 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-05-21 16:22:55847 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+1    INFO  2019-05-21 16:22:55848 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.123
+2075 ERROR 2019-05-21 16:22:57922 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2078 INFO  2019-05-21 16:22:57925 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+2079 INFO  2019-05-21 16:22:57926 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+2090 INFO  2019-05-21 16:22:57937 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-05-21 16:23:56450 com.wink.sdk.hk.func.HCNetSdkFunc HCNetSdk init success.
+1    INFO  2019-05-21 16:23:56451 com.wink.sdk.hk.func.HCNetSdkFunc try to connect device: 192.168.30.123
+2089 ERROR 2019-05-21 16:23:58539 com.wink.sdk.hk.func.HCNetSdkFunc 连接设备失败。设备不在线或网络原因引起的连接超时等。 
+2093 INFO  2019-05-21 16:23:58543 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+2093 INFO  2019-05-21 16:23:58543 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+2104 INFO  2019-05-21 16:23:58554 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-05-21 16:25:14756 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+2    INFO  2019-05-21 16:25:14758 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+15   INFO  2019-05-21 16:25:14771 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.

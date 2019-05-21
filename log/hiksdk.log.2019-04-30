@@ -1,0 +1,83 @@
+0    INFO  2019-04-30 08:47:47105 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+5    INFO  2019-04-30 08:47:47110 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+20   INFO  2019-04-30 08:47:47125 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 08:53:51936 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+3    INFO  2019-04-30 08:53:51939 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+18   INFO  2019-04-30 08:53:51954 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 08:55:37679 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+2    INFO  2019-04-30 08:55:37681 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+15   INFO  2019-04-30 08:55:37694 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 08:56:17240 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+2    INFO  2019-04-30 08:56:17242 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+15   INFO  2019-04-30 08:56:17255 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 09:12:42961 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+4    INFO  2019-04-30 09:12:42965 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+23   INFO  2019-04-30 09:12:42984 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 09:27:11290 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+3    INFO  2019-04-30 09:27:11293 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+17   INFO  2019-04-30 09:27:11307 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 09:39:00710 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+2    INFO  2019-04-30 09:39:00712 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+14   INFO  2019-04-30 09:39:00724 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 09:57:05167 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+5    INFO  2019-04-30 09:57:05172 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+22   INFO  2019-04-30 09:57:05189 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 09:58:45210 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+3    INFO  2019-04-30 09:58:45213 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+19   INFO  2019-04-30 09:58:45229 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 10:01:00731 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+3    INFO  2019-04-30 10:01:00734 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+15   INFO  2019-04-30 10:01:00746 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+1701 INFO  2019-04-30 10:01:02432 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices.
+1716 INFO  2019-04-30 10:01:02447 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices success.
+2804 INFO  2019-04-30 10:01:03535 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices.
+2808 INFO  2019-04-30 10:01:03539 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices success.
+4517 INFO  2019-04-30 10:01:05248 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices.
+4520 INFO  2019-04-30 10:01:05251 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices success.
+5980 INFO  2019-04-30 10:01:06711 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices.
+5984 INFO  2019-04-30 10:01:06715 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices success.
+7565 INFO  2019-04-30 10:01:08296 com.wink.sdk.hk.func.HCSadpSdkFunc stop search devices.
+8435 INFO  2019-04-30 10:01:09166 com.wink.sdk.hk.func.HCSadpSdkFunc stop search devices success.
+0    INFO  2019-04-30 10:22:17879 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+2    INFO  2019-04-30 10:22:17881 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+15   INFO  2019-04-30 10:22:17894 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 10:25:21591 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+2    INFO  2019-04-30 10:25:21593 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+16   INFO  2019-04-30 10:25:21607 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 10:28:49162 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+6    INFO  2019-04-30 10:28:49168 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+36   INFO  2019-04-30 10:28:49198 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 10:32:19132 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+3    INFO  2019-04-30 10:32:19135 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+19   INFO  2019-04-30 10:32:19151 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 13:11:59683 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+4    INFO  2019-04-30 13:11:59687 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+24   INFO  2019-04-30 13:11:59707 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+15532 INFO  2019-04-30 13:12:15215 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices.
+15534 INFO  2019-04-30 13:12:15217 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices success.
+16516 INFO  2019-04-30 13:12:16199 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices.
+16517 INFO  2019-04-30 13:12:16200 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices success.
+18004 INFO  2019-04-30 13:12:17687 com.wink.sdk.hk.func.HCSadpSdkFunc stop search devices.
+18893 INFO  2019-04-30 13:12:18576 com.wink.sdk.hk.func.HCSadpSdkFunc stop search devices success.
+20652 INFO  2019-04-30 13:12:20335 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+20672 INFO  2019-04-30 13:12:20355 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 13:47:47832 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+3    INFO  2019-04-30 13:47:47835 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+22   INFO  2019-04-30 13:47:47854 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 13:53:54850 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+3    INFO  2019-04-30 13:53:54853 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+17   INFO  2019-04-30 13:53:54867 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+2726 INFO  2019-04-30 13:53:57576 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices.
+2730 INFO  2019-04-30 13:53:57580 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices success.
+3694 INFO  2019-04-30 13:53:58544 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices.
+3698 INFO  2019-04-30 13:53:58548 com.wink.sdk.hk.func.HCSadpSdkFunc refresh devices success.
+4629 INFO  2019-04-30 13:53:59479 com.wink.sdk.hk.func.HCSadpSdkFunc stop search devices.
+5046 INFO  2019-04-30 13:53:59896 com.wink.sdk.hk.func.HCSadpSdkFunc stop search devices success.
+6229 INFO  2019-04-30 13:54:0179 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+6233 INFO  2019-04-30 13:54:0183 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 14:26:06761 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+3    INFO  2019-04-30 14:26:06764 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+16   INFO  2019-04-30 14:26:06777 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
+0    INFO  2019-04-30 14:30:21502 com.wink.sdk.hk.func.HCSadpSdkFunc HCSadpSdk init success.
+3    INFO  2019-04-30 14:30:21505 com.wink.sdk.hk.func.HCSadpSdkFunc HkSadpSdk search devices.
+23   INFO  2019-04-30 14:30:21525 com.wink.sdk.hk.func.HCSadpSdkFunc searching devices start.
